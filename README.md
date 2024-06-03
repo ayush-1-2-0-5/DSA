@@ -12,6 +12,7 @@
 | [0072-edit-distance](https://github.com/ayush-1-2-0-5/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/ayush-1-2-0-5/DSA/tree/master/0343-integer-break) |
 # String
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Recursion
 |  |
 | ------- |
@@ -31,3 +33,4 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

@@ -3,6 +3,7 @@
 | ------- |
 | [1070-convert-to-base-2](https://github.com/ayush-1-2-0-5/DSA/tree/master/1070-convert-to-base-2) |
 | [0343-integer-break](https://github.com/ayush-1-2-0-5/DSA/tree/master/0343-integer-break) |
+| [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 
 
 # Dynamic Programming
@@ -17,6 +18,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-1-2-0-5/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-1-2-0-5/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0343-integer-break](https://github.com/ayush-1-2-0-5/DSA/tree/master/0343-integer-break) |
+| [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 # String
 |  |
 | ------- |
@@ -41,7 +43,12 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-1-2-0-5/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-1-2-0-5/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 # Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
+# Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |

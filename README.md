@@ -21,6 +21,7 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Two Pointers
 |  |
 | ------- |

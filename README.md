@@ -80,18 +80,21 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 # Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 # Topological Sort
 |  |
@@ -99,3 +102,11 @@
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
+# Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |

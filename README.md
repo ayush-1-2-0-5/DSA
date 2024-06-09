@@ -52,6 +52,7 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Hash Table
 |  |
@@ -89,6 +90,7 @@
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 # Graph
 |  |
 | ------- |
@@ -110,3 +112,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
+# Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |

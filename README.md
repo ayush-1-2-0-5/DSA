@@ -23,6 +23,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # String
 |  |
 | ------- |
@@ -101,12 +102,14 @@
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Matrix
 |  |
 | ------- |

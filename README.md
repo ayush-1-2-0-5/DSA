@@ -30,6 +30,7 @@
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-1-2-0-5/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0115-distinct-subsequences) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 # Greedy
 |  |
@@ -52,6 +53,7 @@
 | [0312-burst-balloons](https://github.com/ayush-1-2-0-5/DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -60,11 +62,13 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 # Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Two Pointers
 |  |
@@ -83,6 +87,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -92,6 +97,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -135,5 +141,6 @@
 # Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |

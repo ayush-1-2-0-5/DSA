@@ -60,6 +60,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Hash Table
 |  |
 | ------- |
@@ -161,7 +162,9 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Trie
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |

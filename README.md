@@ -6,12 +6,14 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
 | [0066-plus-one](https://github.com/ayush-1-2-0-5/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 
 
 # Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayush-1-2-0-5/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ayush-1-2-0-5/DSA/tree/master/0120-triangle) |
@@ -184,3 +186,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |

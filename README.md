@@ -44,6 +44,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # String
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # Hash Table
 |  |
 | ------- |

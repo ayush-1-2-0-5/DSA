@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/ayush-1-2-0-5/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 
 
 # Dynamic Programming
@@ -27,6 +28,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-1-2-0-5/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayush-1-2-0-5/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-1-2-0-5/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ayush-1-2-0-5/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |

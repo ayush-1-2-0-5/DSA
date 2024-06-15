@@ -59,6 +59,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 # Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 # Two Pointers
 |  |

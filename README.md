@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 
 
 # Dynamic Programming
@@ -60,6 +61,7 @@
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # Recursion
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -113,6 +116,7 @@
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # Two Pointers
 |  |
 | ------- |
@@ -230,3 +234,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
+# Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |

@@ -55,12 +55,14 @@
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/1304-longest-happy-string) |
 # Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1304-longest-happy-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/1304-longest-happy-string) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-1-2-0-5/DSA/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
+| [1304-longest-happy-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 # Shortest Path
 |  |

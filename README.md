@@ -15,6 +15,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
@@ -50,6 +51,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-1-2-0-5/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0115-distinct-subsequences) |
@@ -265,6 +267,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |

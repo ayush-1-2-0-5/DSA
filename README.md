@@ -73,6 +73,7 @@
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
@@ -262,6 +263,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |

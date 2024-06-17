@@ -78,6 +78,7 @@
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayush-1-2-0-5/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ayush-1-2-0-5/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -222,6 +223,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Trie
@@ -262,3 +264,4 @@
 | ------- |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |

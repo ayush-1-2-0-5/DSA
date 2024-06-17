@@ -261,3 +261,4 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |

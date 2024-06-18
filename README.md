@@ -57,6 +57,7 @@
 | [0115-distinct-subsequences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
+| [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/1304-longest-happy-string) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Trie
 |  |
@@ -273,3 +275,4 @@
 | [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
+| [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |

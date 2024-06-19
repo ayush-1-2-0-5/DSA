@@ -45,6 +45,7 @@
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -111,6 +112,7 @@
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-1-2-0-5/DSA/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -239,6 +241,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
+| [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 # Trie
 |  |
@@ -288,10 +291,12 @@
 | [0401-binary-watch](https://github.com/ayush-1-2-0-5/DSA/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
+| [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 # Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 # Tree
 |  |
 | ------- |

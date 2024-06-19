@@ -51,6 +51,7 @@
 # String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ayush-1-2-0-5/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-1-2-0-5/DSA/tree/master/0072-edit-distance) |
@@ -119,6 +120,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
@@ -269,6 +271,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |

@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/ayush-1-2-0-5/DSA/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -278,4 +279,5 @@
 | [0077-combinations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/ayush-1-2-0-5/DSA/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |

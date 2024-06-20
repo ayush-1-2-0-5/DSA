@@ -164,6 +164,7 @@
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ayush-1-2-0-5/DSA/tree/master/0854-making-a-large-island) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/ayush-1-2-0-5/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -306,9 +307,11 @@
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 # Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0988-flip-equivalent-binary-trees) |

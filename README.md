@@ -155,6 +155,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
@@ -171,6 +172,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
@@ -304,6 +306,7 @@
 # Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -311,6 +314,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |

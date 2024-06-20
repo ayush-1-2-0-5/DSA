@@ -127,6 +127,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0652-find-duplicate-subtrees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
 # Sorting
@@ -164,6 +165,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -319,6 +321,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ayush-1-2-0-5/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 # Binary Tree
@@ -331,6 +334,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ayush-1-2-0-5/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 # String Matching

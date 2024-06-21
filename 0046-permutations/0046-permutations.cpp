@@ -1,26 +1,27 @@
 class Solution {
 public:
-    void backtrack(vector<vector<int>> &ans, vector<int> &templist, vector<int> &nums) {
-        if (templist.size() == nums.size()) {
-            ans.push_back(templist);
+     void traverse(vector<int> &temp,vector<vector<int>> &ans,vector<int> &nums)
+     {
+        if(nums.size()==temp.size())
+        {
+            ans.push_back(temp);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (find(templist.begin(), templist.end(), nums[i]) != templist.end()) {
+
+        for(int i=0;i<nums.size();++i)
+        {
+            if (find(temp.begin(), temp.end(), nums[i]) != temp.end()) {
                 continue;
             }
-            templist.push_back(nums[i]);
-            backtrack(ans, templist, nums);
-            templist.pop_back();
+            temp.push_back(nums[i]);
+            traverse(temp,ans,nums);
+            temp.pop_back();
         }
-    }
-
+     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> templist;
         vector<vector<int>> ans;
-
-        backtrack(ans, templist, nums);
-
+        vector<int> temp;
+        traverse(temp,ans,nums);
         return ans;
     }
 };

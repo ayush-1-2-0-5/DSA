@@ -39,6 +39,7 @@
 | [0343-integer-break](https://github.com/ayush-1-2-0-5/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -104,6 +105,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
@@ -252,6 +254,7 @@
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/ayush-1-2-0-5/DSA/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 # Combinatorics
 |  |
@@ -303,12 +307,14 @@
 | [0113-path-sum-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/ayush-1-2-0-5/DSA/tree/master/0401-binary-watch) |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 # Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/1418-fair-distribution-of-cookies) |
 # Tree

@@ -119,6 +119,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayush-1-2-0-5/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -203,6 +204,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/ayush-1-2-0-5/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayush-1-2-0-5/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Topological Sort
 |  |
@@ -243,6 +245,7 @@
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/ayush-1-2-0-5/DSA/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayush-1-2-0-5/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 # Biconnected Component
 |  |
@@ -351,3 +354,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
+# Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ayush-1-2-0-5/DSA/tree/master/1706-min-cost-to-connect-all-points) |

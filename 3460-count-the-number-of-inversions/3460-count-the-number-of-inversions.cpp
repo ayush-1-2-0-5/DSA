@@ -29,7 +29,11 @@ public:
 
         long long result = 0;
         for (int j = 0; j < 405; ++j) {
-            result = (result+dp[n-1][j])%mod;
+            cout<<dp[n-1][j]<<" ";
+            if(dp[n-1][j]!=0)
+            {
+                result=dp[n-1][j];
+            }
         }
         
         return static_cast<int>(result);

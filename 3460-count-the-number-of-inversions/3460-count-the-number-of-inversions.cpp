@@ -11,7 +11,7 @@ public:
         }
 
         int last = 1;
-        for (int i = 1; i <= n; ++i) {
+        for (int i = 1; i < n; ++i) {
             for (int j = 0; j < last + 1; ++j) {
                 for (int k = 0; k <= i; ++k) {
                     if (j + k < 405) {

@@ -2,9 +2,9 @@ class Solution {
 public:
     int numberOfPermutations(int n, vector<vector<int>>& requirements) {
          const int mod = 1e9 + 7;
-        vector<vector<long long>> dp(301, vector<long long>(405, 0));
+        vector<vector<long long>> dp(n+1, vector<long long>(405, 0));
         dp[0][0] = 1;
-        vector<int> req(301, -1);
+        vector<int> req(n+1, -1);
 
         for (auto it : requirements) {
             req[it[0]] = it[1];
@@ -12,7 +12,7 @@ public:
 
         int last = 1;
         for (int i = 1; i <= n; ++i) {
-            for (int j = 0; j <= last + 1; ++j) {
+            for (int j = 0; j < last + 1; ++j) {
                 for (int k = 0; k <= i; ++k) {
                     if (j + k < 405) {
                         if (req[i] != -1 && req[i] != (j + k)) {

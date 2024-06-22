@@ -32,9 +32,7 @@ public:
 	      
 	      for(auto it:adj[a])
 	      {
-	          if(indegree[it]!=0)
 	          indegree[it]--;
-	          
 	          if(indegree[it]==0)
 	          q.push(it);
 	      }

@@ -1,41 +1,31 @@
+#include <vector>
+#include <climits>
+
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<int> dist(n + 1, INT_MAX);
-        vector<vector<pair<int, int>>> adj(n + 1);
+        vector<int> dist(n, INT_MAX);
+        dist[k - 1] = 0; 
 
-        for (auto it : times) {
-            adj[it[0]].push_back({it[1], it[2]});
-        }
-
-        dist[k] = 0;
-        queue<pair<int,int>> q;
-        q.push({k, 0});
-
-        while (!q.empty()) {
-            int node = q.front().first;
-            int dis = q.front().second;
-            q.pop();
-
-            for (auto& edge : adj[node]) {
-                int neighbor = edge.first;
-                int disToNeighbor = edge.second;
-                if (dist[neighbor] > dis + disToNeighbor) {
-                    dist[neighbor] = dis + disToNeighbor;
-                    q.push({neighbor, dist[neighbor]});
+        for (int i = 0; i < n - 1; ++i) {
+            for (const auto& edge : times) {
+                int u = edge[0] - 1;
+                int v = edge[1] - 1;
+                int weight = edge[2];
+                if (dist[u] != INT_MAX && dist[u] + weight < dist[v]) {
+                    dist[v] = dist[u] + weight;
                 }
             }
         }
 
-        int ans = -1;
-        for (int i = 1; i < n + 1; ++i) {
-            if (dist[i] == INT_MAX) {
-                return -1;
-            } else {
-                ans = max(ans, dist[i]);
+        int maxDelay = 0;
+        for (int d : dist) {
+            if (d == INT_MAX) {
+                return -1; 
             }
+            maxDelay = max(maxDelay, d);
         }
 
-        return ans;
+        return maxDelay;
     }
 };

@@ -5,7 +5,6 @@ public:
         for(auto it: pre) {
             adj[it[1]].push_back(it[0]);
         }
-
         vector<int> indegree(numCourses, 0);
         for(int i = 0; i < pre.size(); ++i) {
             indegree[pre[i][0]]++;
@@ -31,7 +30,6 @@ public:
                 }
             }
         }
-
         return cnt == numCourses;
     }
 };

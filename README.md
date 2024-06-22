@@ -123,6 +123,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # Hash Table
 |  |
@@ -195,6 +196,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Graph
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Binary Search
 |  |
 | ------- |

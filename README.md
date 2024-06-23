@@ -50,6 +50,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # String
 |  |
@@ -124,6 +125,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # Hash Table
 |  |
@@ -237,6 +239,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayush-1-2-0-5/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 # Binary Search
 |  |
 | ------- |

@@ -105,6 +105,7 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
@@ -303,12 +304,14 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/ayush-1-2-0-5/DSA/tree/master/0735-asteroid-collision) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 # Backtracking
 |  |

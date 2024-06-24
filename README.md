@@ -111,6 +111,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/ayush-1-2-0-5/DSA/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/ayush-1-2-0-5/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/ayush-1-2-0-5/DSA/tree/master/1129-longest-string-chain) |
@@ -303,6 +304,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/ayush-1-2-0-5/DSA/tree/master/0735-asteroid-collision) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -372,3 +374,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ayush-1-2-0-5/DSA/tree/master/0735-asteroid-collision) |

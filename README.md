@@ -104,6 +104,7 @@
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0638-shopping-offers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0638-shopping-offers) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [1753-path-with-minimum-effort](https://github.com/ayush-1-2-0-5/DSA/tree/master/1753-path-with-minimum-effort) |
 # Union Find
 |  |
@@ -299,10 +301,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 # Backtracking
 |  |
@@ -364,3 +368,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayush-1-2-0-5/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+# Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |

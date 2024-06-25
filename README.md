@@ -86,6 +86,7 @@
 | [0039-combination-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ayush-1-2-0-5/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/ayush-1-2-0-5/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayush-1-2-0-5/DSA/tree/master/0066-plus-one) |
@@ -142,6 +143,7 @@
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayush-1-2-0-5/DSA/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |

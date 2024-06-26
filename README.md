@@ -10,6 +10,7 @@
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2507-number-of-common-factors](https://github.com/ayush-1-2-0-5/DSA/tree/master/2507-number-of-common-factors) |
 
 
 # Dynamic Programming
@@ -283,10 +284,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/ayush-1-2-0-5/DSA/tree/master/2507-number-of-common-factors) |
 # Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/ayush-1-2-0-5/DSA/tree/master/2507-number-of-common-factors) |
 # Memoization
 |  |
 | ------- |

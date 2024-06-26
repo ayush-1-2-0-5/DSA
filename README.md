@@ -11,6 +11,7 @@
 | [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayush-1-2-0-5/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2507-number-of-common-factors](https://github.com/ayush-1-2-0-5/DSA/tree/master/2507-number-of-common-factors) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-1-2-0-5/DSA/tree/master/2301-count-array-pairs-divisible-by-k) |
 
 
 # Dynamic Programming
@@ -130,6 +131,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ayush-1-2-0-5/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-1-2-0-5/DSA/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayush-1-2-0-5/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 # Hash Table
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/ayush-1-2-0-5/DSA/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2507-number-of-common-factors](https://github.com/ayush-1-2-0-5/DSA/tree/master/2507-number-of-common-factors) |
 # Memoization
 |  |

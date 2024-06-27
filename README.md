@@ -106,6 +106,7 @@
 | [0312-burst-balloons](https://github.com/ayush-1-2-0-5/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0456-132-pattern](https://github.com/ayush-1-2-0-5/DSA/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0503-next-greater-element-ii) |
@@ -176,6 +177,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -198,6 +200,7 @@
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ayush-1-2-0-5/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
@@ -212,6 +215,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/ayush-1-2-0-5/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/ayush-1-2-0-5/DSA/tree/master/1300-critical-connections-in-a-network) |
@@ -234,6 +238,7 @@
 # Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/ayush-1-2-0-5/DSA/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayush-1-2-0-5/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Matrix
@@ -257,6 +262,7 @@
 # Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/ayush-1-2-0-5/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/ayush-1-2-0-5/DSA/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ayush-1-2-0-5/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -372,6 +378,7 @@
 # String Matching
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayush-1-2-0-5/DSA/tree/master/0399-evaluate-division) |
 | [0572-subtree-of-another-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0572-subtree-of-another-tree) |
 # Hash Function
 |  |

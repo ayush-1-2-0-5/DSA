@@ -409,6 +409,7 @@
 ## Array
 |  |
 | ------- |
+| [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
+| [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
@@ -449,4 +451,12 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+## String
+|  |
+| ------- |
+| [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 <!---LeetCode Topics End-->

@@ -421,6 +421,7 @@
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -442,11 +443,13 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -459,4 +462,12 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |
 <!---LeetCode Topics End-->

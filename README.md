@@ -476,6 +476,7 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -488,4 +489,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
+## Recursion
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->

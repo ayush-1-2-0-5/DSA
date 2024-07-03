@@ -409,6 +409,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
@@ -497,4 +498,8 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

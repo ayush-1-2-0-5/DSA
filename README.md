@@ -412,6 +412,7 @@
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
 ## Tree
 |  |
@@ -502,4 +504,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->

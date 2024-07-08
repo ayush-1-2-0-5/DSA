@@ -504,6 +504,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0052-n-queens-ii) |
 ## Memoization
 |  |
 | ------- |

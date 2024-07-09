@@ -482,6 +482,7 @@
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [3468-find-the-encrypted-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/3468-find-the-encrypted-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

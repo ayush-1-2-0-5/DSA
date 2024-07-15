@@ -417,6 +417,7 @@
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [0881-loud-and-rich](https://github.com/ayush-1-2-0-5/DSA/tree/master/0881-loud-and-rich) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
@@ -500,6 +501,7 @@
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -554,6 +556,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -565,6 +568,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting

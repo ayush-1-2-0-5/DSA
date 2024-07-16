@@ -22,7 +22,7 @@ public:
         {
             if(r-l+1<ans)
             {
-            ans=r-l+1;
+            ans=min(ans,r-l+1);
             sidx=l;
             }
             hash[s[l]]++;
@@ -31,9 +31,7 @@ public:
         }
 
         r++;
-         
        }
-
        return sidx==-1?"":s.substr(sidx,ans);
     }
 };

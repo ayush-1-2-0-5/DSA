@@ -415,6 +415,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -508,6 +509,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
@@ -535,6 +537,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -576,6 +579,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -613,6 +617,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
@@ -626,10 +631,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -652,4 +659,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

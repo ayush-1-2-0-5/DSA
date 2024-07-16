@@ -9,7 +9,7 @@ public:
 
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
 
-        for(auto &it:mpp)
+        for(auto it:mpp)
         {
             int ct=it.second;
             int num=it.first;

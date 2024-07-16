@@ -419,6 +419,7 @@
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/ayush-1-2-0-5/DSA/tree/master/0881-loud-and-rich) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -510,6 +511,7 @@
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -544,6 +546,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
@@ -605,6 +608,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |

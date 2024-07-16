@@ -425,6 +425,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
@@ -515,6 +516,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -547,6 +549,7 @@
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
@@ -609,6 +612,7 @@
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |

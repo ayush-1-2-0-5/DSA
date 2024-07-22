@@ -473,6 +473,7 @@
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-1-2-0-5/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
+| [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -566,6 +567,7 @@
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ayush-1-2-0-5/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -578,6 +580,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
+| [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -629,6 +632,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |

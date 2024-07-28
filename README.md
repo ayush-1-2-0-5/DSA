@@ -572,6 +572,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ayush-1-2-0-5/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ayush-1-2-0-5/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -697,4 +698,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayush-1-2-0-5/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

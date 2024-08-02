@@ -524,6 +524,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1140-distant-barcodes](https://github.com/ayush-1-2-0-5/DSA/tree/master/1140-distant-barcodes) |
@@ -537,6 +538,7 @@
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ayush-1-2-0-5/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |

@@ -474,6 +474,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -485,6 +486,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
 ## Depth-First Search
@@ -650,6 +652,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -671,10 +674,12 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |

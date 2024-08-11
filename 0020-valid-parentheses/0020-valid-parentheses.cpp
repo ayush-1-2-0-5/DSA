@@ -2,18 +2,20 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
-        map<char, char> mp = {{')', '('}, {']', '['}, {'}', '{'}};
+          map<char, char> mp = {{')', '('}, {']', '['}, {'}', '{'}};
+        for(auto it: s)
+        {
+            if(it=='('||it=='{'||it=='[')
+            st.push(it);
 
-        for (auto i : s) {
-            if (i == '(' || i == '[' || i == '{') {
-                st.push(i);
-            } else {
-                if (st.empty() || st.top() != mp[i]) {
-                    return false;
-                }
+            else
+            {
+                if(mp[it]!=st.top())
+                return false;
+                else
                 st.pop();
             }
         }
-        return st.empty(); // Ensure all brackets are matched
+        return st.empty();
     }
 };

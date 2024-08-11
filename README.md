@@ -541,6 +541,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -581,6 +582,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |

@@ -476,6 +476,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -545,6 +546,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
@@ -602,6 +604,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |

@@ -412,6 +412,7 @@
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
@@ -587,6 +588,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ayush-1-2-0-5/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
@@ -743,5 +745,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

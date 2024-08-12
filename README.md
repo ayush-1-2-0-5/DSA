@@ -437,6 +437,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -596,6 +597,7 @@
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |
 ## Recursion
 |  |
 | ------- |
@@ -636,6 +638,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Simulation
 |  |
@@ -753,4 +756,5 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
+| [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->

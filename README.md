@@ -415,6 +415,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0239-sliding-window-maximum) |
@@ -594,6 +595,7 @@
 | [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayush-1-2-0-5/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
@@ -678,6 +680,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |

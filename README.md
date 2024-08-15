@@ -414,6 +414,7 @@
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -477,6 +478,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -487,6 +489,7 @@
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

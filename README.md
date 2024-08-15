@@ -410,6 +410,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
@@ -617,6 +618,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |

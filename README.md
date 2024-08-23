@@ -409,6 +409,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-1-2-0-5/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
@@ -455,6 +456,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-1-2-0-5/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ayush-1-2-0-5/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |

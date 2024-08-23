@@ -433,6 +433,7 @@
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0792-binary-search](https://github.com/ayush-1-2-0-5/DSA/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/ayush-1-2-0-5/DSA/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/ayush-1-2-0-5/DSA/tree/master/0883-car-fleet) |
@@ -453,6 +454,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/ayush-1-2-0-5/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |

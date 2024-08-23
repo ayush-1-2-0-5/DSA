@@ -409,6 +409,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayush-1-2-0-5/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
@@ -454,6 +455,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayush-1-2-0-5/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ayush-1-2-0-5/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |

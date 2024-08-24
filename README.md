@@ -533,6 +533,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Tree
@@ -603,6 +604,7 @@
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ayush-1-2-0-5/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/3468-find-the-encrypted-string) |

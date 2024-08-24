@@ -1,31 +1,24 @@
 class Solution {
 public:
-    int f(int ind,vector<int> &nums,vector<int> &dp)
+    int solve(int n,vector<int> &arr,vector<int>&dp)
     {
-        if(ind<0)
-        return 0;
-        if(dp[ind]!=-1)
-        return dp[ind];
+        dp[0]=arr[0];
+        for(int i=1;i<n;++i)
+        {
+            int p=arr[i];
 
-        int include=nums[ind]+f(ind-2,nums,dp);
-        int exclude=f(ind-1,nums,dp);
+            if(i>1)
+            p+=dp[i-2];
 
-       return dp[ind]=max(include,exclude);
+            int notp=dp[i-1];
+
+            dp[i]=max(p,notp);
+
+        }
+        return dp[n-1];
     }
     int rob(vector<int>& nums) {
-       int n = nums.size();
-        if (n == 1)
-            return nums[0];
-        if (n == 2)
-            return max(nums[0], nums[1]);
-
-        vector<int> dp1(n, -1);
-        vector<int> dp2(n, -1);
-
-        int a = f(n - 2, nums, dp1); 
-        int b = f(n - 1, nums, dp2);  
-
-        return max(a,b);
-        
+        vector<int> dp(nums.size(),0);
+        return solve(nums.size(),nums,dp);
     }
 };

@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int f(vector<int> nums)
+
+    int f(vector<int> arr,int n,vector<int> &dp)
     {
-        
-        int p1=nums[0];
-        int p2=0;
-        for(int i=1;i<nums.size();++i)
+        dp[0]=arr[0];
+
+        for(int i=1;i<n;++i)
         {
-           int t=nums[i];
-           if(i>1)
-           t+=p2;
+            int p=arr[i];
 
-           int nt=p1;
+            if(i>1)
+            p+=dp[i-2];
 
-           int cur=max(t,nt);
-           p2=p1;
-           p1=cur;
-           
+            int notp=dp[i-1];
+
+            dp[i]=max(p,notp);
         }
 
-        return p1;
+        return dp[n-1];
     }
     int rob(vector<int>& nums) {
-        int n=nums.size();
+         int n=nums.size();
         if(n==1)
         return nums[0];
         vector<int> a2;
@@ -32,8 +30,11 @@ public:
             a1.push_back(nums[i]);
             a2.push_back(nums[j]);
         }
-        int a=f(a1);
-        int b=f(a2);
+        vector<int> dp(n-1,0);
+        int a=f(a1,n-1,dp);
+        dp.resize(n-1,0);
+
+        int b=f(a2,n-1,dp);
 
         return max(a,b);
     }

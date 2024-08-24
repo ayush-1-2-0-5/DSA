@@ -440,6 +440,7 @@
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-1-2-0-5/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
@@ -522,6 +523,7 @@
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-1-2-0-5/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-1-2-0-5/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
@@ -623,6 +625,7 @@
 | [0455-assign-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-1-2-0-5/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [1140-distant-barcodes](https://github.com/ayush-1-2-0-5/DSA/tree/master/1140-distant-barcodes) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |

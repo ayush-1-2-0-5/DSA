@@ -419,6 +419,7 @@
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ayush-1-2-0-5/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/ayush-1-2-0-5/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -502,6 +503,7 @@
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/ayush-1-2-0-5/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |

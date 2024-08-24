@@ -516,6 +516,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-1-2-0-5/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayush-1-2-0-5/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0213-house-robber-ii) |
@@ -596,6 +597,7 @@
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |

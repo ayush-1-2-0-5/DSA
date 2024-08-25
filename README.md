@@ -482,6 +482,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
@@ -599,6 +600,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -622,6 +624,7 @@
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ayush-1-2-0-5/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |

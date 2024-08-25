@@ -484,6 +484,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -567,6 +568,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
@@ -581,6 +583,7 @@
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
@@ -593,6 +596,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0881-loud-and-rich](https://github.com/ayush-1-2-0-5/DSA/tree/master/0881-loud-and-rich) |

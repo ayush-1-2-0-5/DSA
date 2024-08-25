@@ -438,6 +438,7 @@
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -482,6 +483,7 @@
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayush-1-2-0-5/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayush-1-2-0-5/DSA/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
@@ -505,6 +507,7 @@
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-1-2-0-5/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
@@ -534,6 +537,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-1-2-0-5/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0747-min-cost-climbing-stairs) |

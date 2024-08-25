@@ -452,6 +452,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/ayush-1-2-0-5/DSA/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -483,6 +484,7 @@
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-1-2-0-5/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayush-1-2-0-5/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -502,6 +504,7 @@
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |

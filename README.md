@@ -466,6 +466,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |
+| [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -497,6 +498,7 @@
 | [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayush-1-2-0-5/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -508,6 +510,7 @@
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayush-1-2-0-5/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayush-1-2-0-5/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -524,6 +527,7 @@
 | [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -580,6 +584,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [0881-loud-and-rich](https://github.com/ayush-1-2-0-5/DSA/tree/master/0881-loud-and-rich) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayush-1-2-0-5/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/3386-find-edges-in-shortest-paths) |

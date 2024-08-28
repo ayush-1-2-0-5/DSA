@@ -681,6 +681,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayush-1-2-0-5/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-1-2-0-5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ayush-1-2-0-5/DSA/tree/master/0883-car-fleet) |
@@ -792,6 +793,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayush-1-2-0-5/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-1-2-0-5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/ayush-1-2-0-5/DSA/tree/master/0931-maximum-frequency-stack) |
@@ -823,6 +825,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-1-2-0-5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |

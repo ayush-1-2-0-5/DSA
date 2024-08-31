@@ -424,6 +424,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-1-2-0-5/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayush-1-2-0-5/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
@@ -614,6 +615,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayush-1-2-0-5/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -722,6 +724,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
@@ -763,6 +766,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -790,6 +794,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect

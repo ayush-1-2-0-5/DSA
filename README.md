@@ -442,6 +442,7 @@
 | [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayush-1-2-0-5/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ayush-1-2-0-5/DSA/tree/master/0733-flood-fill) |
@@ -767,6 +768,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ayush-1-2-0-5/DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayush-1-2-0-5/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/ayush-1-2-0-5/DSA/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/ayush-1-2-0-5/DSA/tree/master/0883-car-fleet) |
@@ -782,6 +784,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-1-2-0-5/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer

@@ -414,6 +414,7 @@
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
@@ -538,6 +539,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0064-minimum-path-sum) |
@@ -799,6 +801,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayush-1-2-0-5/DSA/tree/master/0347-top-k-frequent-elements) |

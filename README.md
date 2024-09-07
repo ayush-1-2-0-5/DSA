@@ -462,6 +462,7 @@
 | [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ayush-1-2-0-5/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-distant-barcodes](https://github.com/ayush-1-2-0-5/DSA/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -569,6 +570,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0863-sum-of-distances-in-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ayush-1-2-0-5/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |

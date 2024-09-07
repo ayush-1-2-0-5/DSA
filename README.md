@@ -661,6 +661,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ayush-1-2-0-5/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/3468-find-the-encrypted-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayush-1-2-0-5/DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -802,6 +803,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayush-1-2-0-5/DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Divide and Conquer
 |  |
 | ------- |

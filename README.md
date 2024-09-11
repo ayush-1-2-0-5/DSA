@@ -563,6 +563,7 @@
 | [0368-largest-divisible-subset](https://github.com/ayush-1-2-0-5/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ayush-1-2-0-5/DSA/tree/master/0546-remove-boxes) |
@@ -656,6 +657,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0383-ransom-note](https://github.com/ayush-1-2-0-5/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |

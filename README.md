@@ -480,6 +480,7 @@
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3518-maximum-multiplication-score](https://github.com/ayush-1-2-0-5/DSA/tree/master/3518-maximum-multiplication-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayush-1-2-0-5/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/ayush-1-2-0-5/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |

@@ -478,6 +478,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayush-1-2-0-5/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -648,6 +649,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayush-1-2-0-5/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -814,6 +816,7 @@
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ayush-1-2-0-5/DSA/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayush-1-2-0-5/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |

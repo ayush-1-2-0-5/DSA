@@ -478,6 +478,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3518-maximum-multiplication-score](https://github.com/ayush-1-2-0-5/DSA/tree/master/3518-maximum-multiplication-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayush-1-2-0-5/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -581,6 +582,7 @@
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayush-1-2-0-5/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3518-maximum-multiplication-score](https://github.com/ayush-1-2-0-5/DSA/tree/master/3518-maximum-multiplication-score) |
 ## Tree
 |  |
 | ------- |

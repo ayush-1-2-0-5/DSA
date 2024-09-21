@@ -603,6 +603,7 @@
 | [0210-course-schedule-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/ayush-1-2-0-5/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayush-1-2-0-5/DSA/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayush-1-2-0-5/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -923,4 +924,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

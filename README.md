@@ -411,6 +411,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-1-2-0-5/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-1-2-0-5/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ayush-1-2-0-5/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ayush-1-2-0-5/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayush-1-2-0-5/DSA/tree/master/0051-n-queens) |
@@ -550,6 +551,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayush-1-2-0-5/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayush-1-2-0-5/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-1-2-0-5/DSA/tree/master/0063-unique-paths-ii) |
@@ -715,6 +717,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-1-2-0-5/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayush-1-2-0-5/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ayush-1-2-0-5/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -867,6 +870,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-1-2-0-5/DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ayush-1-2-0-5/DSA/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -911,6 +915,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-1-2-0-5/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-1-2-0-5/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayush-1-2-0-5/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayush-1-2-0-5/DSA/tree/master/0739-daily-temperatures) |

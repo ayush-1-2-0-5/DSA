@@ -468,6 +468,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ayush-1-2-0-5/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-distant-barcodes](https://github.com/ayush-1-2-0-5/DSA/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1242-matrix-block-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayush-1-2-0-5/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -542,6 +543,7 @@
 | [1036-rotting-oranges](https://github.com/ayush-1-2-0-5/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-1-2-0-5/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayush-1-2-0-5/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1242-matrix-block-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/1242-matrix-block-sum) |
 | [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -775,6 +777,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayush-1-2-0-5/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1242-matrix-block-sum](https://github.com/ayush-1-2-0-5/DSA/tree/master/1242-matrix-block-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/ayush-1-2-0-5/DSA/tree/master/1985-maximum-subarray-min-product) |

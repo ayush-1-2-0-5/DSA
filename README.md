@@ -478,6 +478,7 @@
 | [2035-count-sub-islands](https://github.com/ayush-1-2-0-5/DSA/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/ayush-1-2-0-5/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayush-1-2-0-5/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayush-1-2-0-5/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ayush-1-2-0-5/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayush-1-2-0-5/DSA/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3518-maximum-multiplication-score](https://github.com/ayush-1-2-0-5/DSA/tree/master/3518-maximum-multiplication-score) |
@@ -801,6 +802,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayush-1-2-0-5/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayush-1-2-0-5/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayush-1-2-0-5/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayush-1-2-0-5/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sorting
 |  |
 | ------- |
@@ -886,10 +888,12 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-1-2-0-5/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayush-1-2-0-5/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayush-1-2-0-5/DSA/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayush-1-2-0-5/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Combinatorics
 |  |
 | ------- |

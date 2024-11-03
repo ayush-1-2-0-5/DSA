@@ -683,6 +683,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ayush-1-2-0-5/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0753-open-the-lock](https://github.com/ayush-1-2-0-5/DSA/tree/master/0753-open-the-lock) |
+| [0812-rotate-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayush-1-2-0-5/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ayush-1-2-0-5/DSA/tree/master/1250-longest-common-subsequence) |
@@ -949,4 +950,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0386-lexicographical-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ayush-1-2-0-5/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

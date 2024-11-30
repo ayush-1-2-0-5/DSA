@@ -746,6 +746,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ayush-1-2-0-5/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayush-1-2-0-5/DSA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/ayush-1-2-0-5/DSA/tree/master/1197-parsing-a-boolean-expression) |
@@ -835,6 +836,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ayush-1-2-0-5/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayush-1-2-0-5/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -924,6 +926,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-1-2-0-5/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ayush-1-2-0-5/DSA/tree/master/0206-reverse-linked-list) |
 ## Ordered Set
 |  |

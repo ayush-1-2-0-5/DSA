@@ -503,6 +503,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/ayush-1-2-0-5/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
@@ -603,6 +604,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -612,6 +614,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ayush-1-2-0-5/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/ayush-1-2-0-5/DSA/tree/master/0207-course-schedule) |
@@ -888,6 +891,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayush-1-2-0-5/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush-1-2-0-5/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayush-1-2-0-5/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayush-1-2-0-5/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
